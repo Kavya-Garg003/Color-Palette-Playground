@@ -5,7 +5,7 @@
 A simple web-based **Color Palette Playground** built using **HTML, CSS, and JavaScript**.
 This project allows users to generate random color palettes, view hex codes, and copy colors with a single click.
 
-https://vercel.com/kavya-garg003s-projects/color-palette-playground/usage
+https://color-palette-playground-smoky.vercel.app/
 
 ---
 

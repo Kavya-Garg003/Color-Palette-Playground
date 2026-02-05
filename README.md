@@ -9,15 +9,6 @@ https://vercel.com/kavya-garg003s-projects/color-palette-playground/usage
 
 ---
 
-## 📌 Lab Information
-
-* **Lab Title:** Lab 5 – Color Palette Playground
-* **Duration:** 45 minutes
-* **Objective:**
-  To understand DOM manipulation, event handling, clipboard access, and responsive layout using vanilla web technologies.
-
----
-
 ## 🎯 Features
 
 * Displays **5 color swatches** in a row using **CSS Flexbox**
